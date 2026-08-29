@@ -1,43 +1,39 @@
 ---
-NoteType: NPC
-Name: Sorana
-Race: Human
-Profession: Guard
-Disposition: Indifferent
-Faction: Guards
-FactionRank: Captain
-HomeTown: Davik's Ferry
-Kingdom: Danuvia
-Desires:
-  - Survival, Peace, Justice
-Fears:
-  - Horrors of war, Monsters, Helplessness
-Loot:
-Nicknames:
+publish: true
 ---
 
->[!infobox]
-># `=this.file.name`
->###### `=this.Nicknames`
->![[C_CaptainSorana.webp|cover hsmall]]
->###### Statistics
->Type|Stat
->---|---|
->Race|`=this.Race`|
->Profession|`=this.profession`|
->Faction|`=this.Faction`|
->Disposition|`=this.Disposition`|
+> [!infobox]
+>
+> # Captain Sorana
+>
+> ######
+>
+> ![[z_Assets/C_CaptainSorana.webp|cover hsmall]]
+>
+> ###### Statistics
+>
+> Type|Stat
+> \---|---|
+> Race|Human|
+> Profession|Guard|
+> Faction|Guards|
+> Disposition|Indifferent|
+
 # Description
-- **Height & Build**: 
-- **Apparent Age**: 
-- **Hair & Eyes**: 
-- **Roleplay**: 
+
+- **Height & Build**:
+- **Apparent Age**:
+- **Hair & Eyes**:
+- **Roleplay**:
 
 ## Equipment
-- _
-- _
-- _
-- _
+
+- \_
+- \_
+- \_
+- \_
+
 ## Motivation
-* **Desires**: `=join(this.Desires, ", ")`
-* **Fears**: `=join(this.Fears, ", ")`
+
+- **Desires**: Survival, Peace, Justice
+- **Fears**: Horrors of war, Monsters, Helplessness

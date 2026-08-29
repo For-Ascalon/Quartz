@@ -1,5 +1,5 @@
 ---
-NoteType: Service
+publish: true
 ---
 
 ## Lodging

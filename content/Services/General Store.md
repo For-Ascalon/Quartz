@@ -1,6 +1,7 @@
 ---
-NoteType: Service
+publish: true
 ---
+
 Hard Sell (daily) at 375 gp (Cheap: 281 gp, Expensive: 500)
 Selling Cap (daily) at 750 gp (Cheap: 562 gp, Expensive: 1000 gp)
 Trade goods accepted.
@@ -9,7 +10,7 @@ Trade goods accepted.
 
 | Item Name              | Cost (Normal) | Cost (Cheap) | Cost (Expensive) | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
 | ---------------------- | ------------- | ------------ | ---------------- | ------------- | ------------ | ------------ | -------------- |
-| [Adventuring Gear]     |               |              |                  |               |              |              |                |
+| \[Adventuring Gear]     |               |              |                  |               |              |              |                |
 | Abacus                 | 2 gp          | 1 gp         | 3 gp             |               |              | X            | X              |
 | Barrel                 | 2 gp          | 1 gp         | 3 gp             |               | X            | X            | X              |
 | Blanket                | 5 sp          | 3 sp         | 8 sp             | X             | X            | X            | X              |
@@ -43,7 +44,7 @@ Trade goods accepted.
 | Soap                   | 2 cp          | 1 cp         | 3 cp             |               |              | X            | X              |
 | Vial                   | 1 gp          | 7 sp         | 2 gp             |               |              | X            | X              |
 |                        |               |              |                  |               |              |              |                |
-| [Tools]                |               |              |                  |               |              |              |                |
+| \[Tools]                |               |              |                  |               |              |              |                |
 | Carpenter's Tools      | 15 gp         | 11 gp        | 23 gp            | X             | X            | X            | X              |
 | Cobbler's Tools        | 25 gp         | 18 gp        | 38 gp            |               | X            | X            | X              |
 | Cook's Utensils        | 50 gp         | 38 gp        | 75 gp            | X             | X            | X            | X              |
@@ -60,26 +61,28 @@ Trade goods accepted.
 Hard Sell (daily) at 750 gp (Cheap: 562 gp, Expensive: 1125)
 Selling Cap (daily) at 1500 gp (Cheap: 1125 gp, Expensive: 2260 gp)
 Trade goods accepted.
+
 ## Water-side Theme
 
-| [Weapons]             |       |       |       |     |     |     |     |
+| \[Weapons]             |       |       |       |     |     |     |     |
 | --------------------- | ----- | ----- | ----- | --- | --- | --- | --- |
 | Spear                 | 1 gp  | 7 sp  | 2 gp  |     | X   | X   | X   |
 | Net                   | 1 gp  | 7 sp  | 2 gp  | X   | X   | X   | X   |
 |                       |       |       |       |     |     |     |     |
-| [Adventuring Gear]    |       |       |       |     |     |     |     |
+| \[Adventuring Gear]    |       |       |       |     |     |     |     |
 | Fishing Tackle        | 1 gp  | 7 sp  | 2 gp  | X   | X   | X   | X   |
 |                       |       |       |       |     |     |     |     |
-| [Waterborne Vehicles] |       |       |       |     |     |     |     |
+| \[Waterborne Vehicles] |       |       |       |     |     |     |     |
 | Rowboat               | 50 gp | 38 gp | 75 gp |     | X   | X   | X   |
 |                       |       |       |       |     |     |     |     |
-| [Trade Goods]         |       |       |       |     |     |     |     |
+| \[Trade Goods]         |       |       |       |     |     |     |     |
 | 1 lb. of Fishing Bait | 5 cp  | 3 cp  | 8 cp  | X   | X   | X   | X   |
 
 ---
+
 ## Magical Theme
 
-| [Adventuring Gear] |       |       |       |     |     |     |     |
+| \[Adventuring Gear] |       |       |       |     |     |     |     |
 | ------------------ | ----- | ----- | ----- | --- | --- | --- | --- |
 | Arcane Focus       |       |       |       |     |     |     |     |
 | Crystal            | 10 gp | 7 gp  | 15 gp |     |     | X   | X   |
@@ -95,7 +98,7 @@ Trade goods accepted.
 
 | Item Name               | Cost (Normal) | Cost (Cheap) | Cost (Expensive) | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
 | ----------------------- | ------------- | ------------ | ---------------- | ------------- | ------------ | ------------ | -------------- |
-| [Tools]                 |               |              |                  |               |              |              |                |
+| \[Tools]                 |               |              |                  |               |              |              |                |
 | Artisan's Tools         |               |              |                  |               |              |              |                |
 | Calligrapher's Supplies | 10 gp         | 8 gp         | 15 gp            |               |              | X            | X              |
 | Glassblower's Tools     | 30 gp         | 22 gp        | 45 gp            |               |              |              | X              |

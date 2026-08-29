@@ -1,27 +1,21 @@
 ---
-NoteType: Location
-Region:
-Name:
-Capital:
-Language:
-Ruler:
-Exports:
-Imports:
-Treasury:
-Population:
+publish: true
 ---
->[!infobox]+
-># `this.file.name`
->### Heraldry
->![[Placeholder.svg|cover hsmall]]
->###### Statistics
->Type|Stat
->---|---|
->Region|`=this.Region`|
->Capital|`=this.Capital`|
->Ruler|`=this.Ruler`|
->Imports|`=this.Imports`|
->Exports|`=this.Exports`|
 
-
-
+> [!infobox]+
+>
+> # `this.file.name`
+>
+> ### Heraldry
+>
+> ![[Placeholder.svg|cover hsmall]]
+>
+> ###### Statistics
+>
+> Type|Stat
+> \---|---|
+> Region||
+> Capital||
+> Ruler||
+> Imports||
+> Exports||

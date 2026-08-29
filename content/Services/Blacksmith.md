@@ -1,13 +1,14 @@
 ---
-NoteType: Service
+publish: true
 ---
+
 Hard Sell (daily) at 1000 gp (Cheap: 750 gp, Expensive: 1500)
 
 Selling Cap (daily) at 2000 gp (Cheap: 1500 gp, Expensive: 3000 gp)
 
 | Item Name                    | Cost (Normal) | Cost (Cheap) | Cost (Expensive) | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
 | ---------------------------- | ------------- | ------------ | ---------------- | ------------- | ------------ | ------------ | -------------- |
-| [Armor]                      |               |              |                  |               |              |              |                |
+| \[Armor]                      |               |              |                  |               |              |              |                |
 | Light Armor                  |               |              |                  |               |              |              |                |
 | Studded Leather              | 45 gp         | 33 gp        | 68 gp            |               |              |              | X              |
 | Medium Armor                 |               |              |                  |               |              |              |                |
@@ -23,7 +24,7 @@ Selling Cap (daily) at 2000 gp (Cheap: 1500 gp, Expensive: 3000 gp)
 | Shield                       |               |              |                  |               |              |              |                |
 | Shield                       | 10 gp         | 7 gp         | 15 gp            | X             | X            | X            | X              |
 |                              |               |              |                  |               |              |              |                |
-| [Weapons]                    |               |              |                  |               |              |              |                |
+| \[Weapons]                    |               |              |                  |               |              |              |                |
 | Simple Melee Weapons         |               |              |                  |               |              |              |                |
 | Dagger                       | 2 gp          | 1 gp         | 3 gp             | X             | X            | X            | X              |
 | Handaxe                      | 5 gp          | 3 gp         | 8 gp             | X             | X            | X            | X              |
@@ -51,7 +52,7 @@ Selling Cap (daily) at 2000 gp (Cheap: 1500 gp, Expensive: 3000 gp)
 | War Pick                     | 5 gp          | 3 gp         | 8 gp             |               |              | X            | X              |
 | Warhammer                    | 15 gp         | 11 gp        | 22 gp            |               | X            | X            | X              |
 |                              |               |              |                  |               |              |              |                |
-| [Adventuring Gear]           |               |              |                  |               |              |              |                |
+| \[Adventuring Gear]           |               |              |                  |               |              |              |                |
 | Ball Bearings (bag of 1,000) | 1 gp          | 7 sp         | 2 gp             |               | X            | X            | X              |
 | Bell                         | 1 gp          | 7 sp         | 2 gp             |               | X            | X            | X              |
 | Block and Tackle             | 1 gp          | 7 sp         | 2 gp             |               |              | X            | X              |
@@ -73,7 +74,7 @@ Selling Cap (daily) at 2000 gp (Cheap: 1500 gp, Expensive: 3000 gp)
 | Spikes, Iron                 | 1 gp          | 7 sp         | 2 gp             |               |              | X            | X              |
 | Whetstone                    | 1 cp          | 1 cp         | 2 cp             | X             | X            | X            | X              |
 |                              |               |              |                  |               |              |              |                |
-| [Tools]                      |               |              |                  |               |              |              |                |
+| \[Tools]                      |               |              |                  |               |              |              |                |
 | Artisan's Tools              |               |              |                  |               |              |              |                |
 | Carpenter's Tools            | 8 gp          | 6 gp         | 12 gp            |               | X            | X            | X              |
 | Mason's Tools                | 10 gp         | 7 gp         | 15 gp            |               |              | X            | X              |

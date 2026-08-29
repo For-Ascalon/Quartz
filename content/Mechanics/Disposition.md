@@ -1,5 +1,5 @@
 ---
-NoteType: Mechanic
+publish: true
 ---
 
 | Disposition | Description                                              |

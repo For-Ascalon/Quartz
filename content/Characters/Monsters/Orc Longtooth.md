@@ -1,42 +1,36 @@
 ---
-NoteType: Monster
-MonsterType: Humanoid (Orc)
-ChallengeRating: "1"
-AC: "16"
-HP: 27 (5d8+5)
-ToHitBonus: "4"
-SaveDC:
-PassivePerception: "10"
-SkillBonuses: Stealth +6, Survival +2
-SaveBonuses:
-Senses: Darkvision 60ft
+publish: true
 ---
 
->[!infobox]
->## `=this.file.name`
->##### CR `=this.ChallengeRating`
->![[M_OrcLongtooth.webp]]
+> [!infobox]
 >
->Stat|Value|
->---|---|
->Type|`=this.MonsterType`|
->AC|`=this.AC`|
->HP|`=this.HP`|
->To-Hit|`=this.ToHitBonus`|
->Save DC|`=this.SaveDC`|
->PP|`=this.PassivePerception`|
->Skills|`=this.SkillBonuses`|
->Saves|`=this.SaveBonuses`|
->Senses|`=this.Senses`|
+> ## Orc Longtooth
 >
->Att|Val|Mod|Save
->---|---|---|---|
->STR|15|2|2|
->DEX|14|2|2|
->CON|13|1|1|
->INT|8|-1|-1|
->WIS|11|0|0|
->CHA|9|-1|-1|
+> ##### CR 1
+>
+> ![[z_Assets/M_OrcLongtooth.webp]]
+>
+> Stat|Value|
+> \---|---|
+> Type|Humanoid (Orc)|
+> AC|16|
+> HP|27 (5d8+5)|
+> To-Hit|4|
+> Save DC||
+> PP|10|
+> Skills|Stealth +6, Survival +2|
+> Saves||
+> Senses|Darkvision 60ft|
+>
+> Att|Val|Mod|Save
+> \---|---|---|---|
+> STR|15|2|2|
+> DEX|14|2|2|
+> CON|13|1|1|
+> INT|8|-1|-1|
+> WIS|11|0|0|
+> CHA|9|-1|-1|
 
 ### Notes
+
 Replacing the RHoD "Hobgoblin Veteran" - this uses the [bugbear](https://www.dndbeyond.com/monsters/16817-bugbear) stat block.

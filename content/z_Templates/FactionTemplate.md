@@ -1,10 +1,9 @@
 ---
-NoteType: Faction
+publish: true
 ---
+
 #### Summary
 
-
 #### Relationships
-
 
 #### Ranks

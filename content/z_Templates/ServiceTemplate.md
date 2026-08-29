@@ -1,3 +1,3 @@
 ---
-NoteType: Service
+publish: true
 ---

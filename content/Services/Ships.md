@@ -1,7 +1,9 @@
 ---
-NoteType: Service
+publish: true
 ---
+
 ## Airborne and Waterborne Vehicles
+
 | Ship                                                                 | Speed  | Cost      | Cargo (Tons) | AC  | HP  | Damage Threshold | Crew | Passengers |
 | -------------------------------------------------------------------- | ------ | --------- | ------------ | --- | --- | ---------------- | ---- | ---------- |
 | [Airship](https://www.dndbeyond.com/equipment/471-airship)           | 8 mph  | 40,000 GP | 1            | 13  | 300 | —                | 10   | 20         |

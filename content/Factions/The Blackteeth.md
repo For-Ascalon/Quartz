@@ -1,11 +1,12 @@
 ---
-NoteType: Faction
+publish: true
 ---
+
 #### Summary
+
 This group of bandits laughingly call themselves The Blackteeth due to their love of Blackroot - a narcotic root similar to chewing tobacco, which has the unfortunate side effect of discoloring one's teeth.  Each member is simply called a Blacktooth, and collectively they are The Blackteeth, or sometime The Blacktooth Bandits.
 
 #### Relationships
-
 
 #### Ranks
 

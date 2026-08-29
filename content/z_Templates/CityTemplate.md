@@ -1,48 +1,57 @@
 ---
-NoteType: Location
-Region:
-Kingdom:
-Capital:
-Name:
-Nicknames:
-Language:
-Ruler:
-Exports:
-Imports:
-Treasury:
-Population:
+publish: true
 ---
->[!infobox]+
-># `=this.file.name`
->### `=this.Nicknames`
->![[Placeholder.svg|cover hsmall]]
->###### Statistics
->Type|Stat
->---|---|
->Region|`=this.Region`|
->Kingdom|`=this.Kingdom`|
->Capital|`=this.Capital`|
->Ruler|`=this.Ruler`|
->Imports|`=this.Imports`|
->Exports|`=this.Exports`|
+
+> [!infobox]+
+>
+> # CityTemplate
+>
+> ###
+>
+> ![[Placeholder.svg|cover hsmall]]
+>
+> ###### Statistics
+>
+> Type|Stat
+> \---|---|
+> Region||
+> Kingdom||
+> Capital||
+> Ruler||
+> Imports||
+> Exports||
 
 ### Leadership
+
 ---
+
 - NAME - Lorem Ipsum
+
 ### Notable NPCs
+
 ---
+
 - NAME - Lorem Ipsum.
+
 ### Services
+
 ---
+
 **Example 1**
+
 - Lorem Ipsum.
-**Example 2**
+  **Example 2**
 - Lorem Ipsum.
+
 ### Defenses
+
 ---
-**Town Guard**: 
-**Militia**: 
+
+**Town Guard**:
+**Militia**:
+
 ### Map
+
 ```zoommap
 imageBases:
   - path: z_Assets/Placeholder.svg
@@ -60,6 +69,3 @@ resizeHandle: native
 render: dom
 id: map-DaviksFerry
 ```
-
-
-

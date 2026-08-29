@@ -1,4 +1,4 @@
-**Spellcasting**. The typical magewright's spellcasting ability is Intelligence. To cast one of its rituals, the magewright must provide additional material components  (typically residuum, powerful blood, rare artifacts, etc.) whose value in gold pieces is 50gp for 1st level, doubling every level thereafter. These components are consumed when the ritual is finished. 
+**Spellcasting**. The typical magewright's spellcasting ability is Intelligence. To cast one of its rituals, the magewright must provide additional material components  (typically residuum, powerful blood, rare artifacts, etc.) whose value in gold pieces is 50gp for 1st level, doubling every level thereafter. These components are consumed when the ritual is finished.
 
 | Spell Level | Cost (GP) | Notes                                                                                     |
 | ----------- | --------- | ----------------------------------------------------------------------------------------- |
@@ -12,7 +12,7 @@
 | 8           | 6400      |                                                                                           |
 | 9           | 12800     |                                                                                           |
 
-*** Spells of 4th level and above are special. A marked specialist of a Guild might be able to cast them at the value listed, but only because their mark itself makes it cheaper by facilitating the casting, so less material is necessary.
+\*\*\* Spells of 4th level and above are special. A marked specialist of a Guild might be able to cast them at the value listed, but only because their mark itself makes it cheaper by facilitating the casting, so less material is necessary.
 
 ## Magewright Specialties
 

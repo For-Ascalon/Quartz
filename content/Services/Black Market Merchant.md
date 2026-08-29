@@ -1,10 +1,10 @@
 ---
-NoteType: Service
+publish: true
 ---
 
 | Item Name            | Cost (Normal) | Cost (Cheap) | Cost (Expensive) | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
 | -------------------- | ------------- | ------------ | ---------------- | ------------- | ------------ | ------------ | -------------- |
-| [Adventuring Gear]   |               |              |                  |               |              |              |                |
+| \[Adventuring Gear]   |               |              |                  |               |              |              |                |
 | Acid (vial)          | 25 gp         | 18 gp        | 38 gp            | X             | X            | X            | X              |
 | Antitoxin (vial)     | 50 gp         | 38 gp        | 75 gp            | X             | X            | X            | X              |
 | Caltrops (bag of 20) | 1 gp          | 7 sp         | 2 gp             |               |              | X            | X              |
@@ -15,7 +15,7 @@ NoteType: Service
 | Ram, Portable        | 4 gp          | 3 gp         | 6 gp             |               |              |              | X              |
 | Spikes, Iron (10)    | 1 gp          | 7 sp         | 2 gp             |               |              |              | X              |
 |                      |               |              |                  |               |              |              |                |
-| [Tools]              |               |              |                  |               |              |              |                |
+| \[Tools]              |               |              |                  |               |              |              |                |
 | Disguise Kit         | 25 gp         | 18 gp        | 38 gp            |               |              | X            | X              |
 | Forgery Kit          | 15 gp         | 11 gp        | 23 gp            |               | X            | X            | X              |
 | Gaming Set           |               |              |                  |               |              |              |                |

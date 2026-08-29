@@ -1,40 +1,34 @@
 ---
-NoteType: NPC
-Name:
-Race:
-Profession:
-Disposition:
-Faction:
-FactionRank:
-HomeTown:
-Kingdom:
-Desires:
-  - One, Two, Three
-Fears:
-  - Four, Five, Six
-Loot:
-Nicknames:
+publish: true
 ---
 
->[!infobox]
-># `=this.file.name`
->###### `=this.Nicknames`
->![[Placeholder.svg|cover hsmall]]
->###### Statistics
->Type|Stat
->---|---|
->Race|`=this.Race`|
->Profession|`=this.profession`|
->Faction|`=this.Faction`|
->Disposition|`=this.Disposition`|
+> [!infobox]
+>
+> # NPCTemplate
+>
+> ######
+>
+> ![[Placeholder.svg|cover hsmall]]
+>
+> ###### Statistics
+>
+> Type|Stat
+> \---|---|
+> Race||
+> Profession||
+> Faction||
+> Disposition||
+
 #### Description
 
-
 #### Equipment
-- _
-- _
-- _
-- _
+
+- \_
+- \_
+- \_
+- \_
+
 #### Motivation
-* **Desires**: `=join(this.Desires, ", ")`
-* **Fears**: `=join(this.Fears, ", ")`
+
+- **Desires**: One, Two, Three
+- **Fears**: Four, Five, Six

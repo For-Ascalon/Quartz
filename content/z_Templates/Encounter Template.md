@@ -1,9 +1,9 @@
 ---
-NoteType: Encounter
-Location:
+publish: true
 ---
-**Timeline:** 
-**Summary:** 
-**Creatures:** 
+
+**Timeline:**
+**Summary:**
+**Creatures:**
 
 ### Introduction
