@@ -1,0 +1,109 @@
+{
+  "size": {
+    "w": 723,
+    "h": 943
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [
+    {
+      "type": "pin",
+      "id": "marker_7n4z57",
+      "x": 0.5675881067730592,
+      "y": 0.8642820436813432,
+      "layer": "default",
+      "link": "",
+      "iconKey": "pinRed",
+      "tooltip": "The Dawn Way",
+      "tooltipAlwaysOn": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_1um02g",
+      "x": 0.653082549634273,
+      "y": 0.8169412714147855,
+      "layer": "default",
+      "link": "",
+      "iconKey": "pinRed",
+      "tooltip": "The Old Witch Trail",
+      "tooltipAlwaysOn": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_np5efi",
+      "x": 0.48446850954687887,
+      "y": 0.7677797002148987,
+      "layer": "default",
+      "link": "Jorr",
+      "iconKey": "pinRed",
+      "tooltip": "Jorr's Cabin",
+      "tooltipAlwaysOn": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_3reul8",
+      "x": 0.41084829486083363,
+      "y": 0.7131557322150245,
+      "layer": "default",
+      "link": "",
+      "iconKey": "pinRed",
+      "tooltip": "Blackwater Causeway",
+      "tooltipAlwaysOn": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_m6keyx",
+      "x": 0.3821839080459766,
+      "y": 0.3672059263813211,
+      "layer": "default",
+      "link": "",
+      "iconKey": "pinRed",
+      "tooltip": "Giant Effigy",
+      "tooltipAlwaysOn": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_a22hbv",
+      "x": 0.2040229885057469,
+      "y": 0.31212675864811457,
+      "layer": "default",
+      "link": "",
+      "iconKey": "pinRed",
+      "tooltip": "Giant Ruin",
+      "tooltipAlwaysOn": true
+    }
+  ],
+  "bases": [
+    {
+      "path": "z_Assets/Map_TheWitchTrail.png",
+      "name": "The Witch Trail"
+    }
+  ],
+  "overlays": [],
+  "activeBase": "z_Assets/Map_TheWitchTrail.png",
+  "measurement": {
+    "scales": {
+      "z_Assets/Map_TheWitchTrail.png": 58.23642915647875
+    },
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [],
+    "travelDaysEnabled": false,
+    "displayUnit": "mi",
+    "metersPerPixel": 58.23642915647875
+  },
+  "pinSizeOverrides": {},
+  "grids": [],
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "secondScreen": {
+    "showGrids": true
+  },
+  "textLayers": []
+}

@@ -1,0 +1,42 @@
+{
+  "size": {
+    "w": 4000,
+    "h": 2550
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [],
+  "bases": [
+    {
+      "path": "z_Assets/Map_DevanVale.webp",
+      "name": "Devan Vale"
+    }
+  ],
+  "overlays": [],
+  "activeBase": "z_Assets/Map_DevanVale.webp",
+  "measurement": {
+    "scales": {
+      "z_Assets/Map_DevanVale.webp": 133.91971233853425
+    },
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [],
+    "travelDaysEnabled": false,
+    "displayUnit": "mi",
+    "metersPerPixel": 133.91971233853425
+  },
+  "pinSizeOverrides": {},
+  "grids": [],
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "secondScreen": {
+    "showGrids": true
+  },
+  "textLayers": []
+}
