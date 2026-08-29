@@ -16,8 +16,7 @@ Loot:
 Nicknames:
 ---
 
->[!infobox]
-># `=this.file.name`
+>[!infobox] `=this.file.name`
 >###### `=this.Nicknames`
 >![[C_DeloraDravikov.webp|cover hsmall]]
 >###### Statistics
