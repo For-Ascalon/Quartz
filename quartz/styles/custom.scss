@@ -1,3 +1,96 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+/* Target infobox callouts with a custom attribute or tag */
+.callout[data-callout="infobox"] {
+    max-width: 215px;
+    float: right;
+    margin: 0 0 10px 10px;
+    padding: 0;
+    border: 1px solid var(--background-modifier-border);
+    background-color: var(--background-secondary);
+    --callout-blend-mode: normal;
+}
+
+/* Format the container for the small header cover image */
+.callout[data-callout="infobox"] img[alt*="cover hsmall"] {
+    width: 100%;
+    height: 200px; /* Adjust height to your liking */
+    object-fit: cover;
+    object-position: center;
+    display: block;
+    margin: 0 0 0 0;
+    padding: 0;
+}
+
+/* Center all general content text */
+.callout[data-callout="infobox"] .callout-title,
+.callout[data-callout="infobox"] .callout-content {
+    padding: 0;
+    text-align: center;
+}
+
+/* Center all table headers and cells */
+.callout[data-callout="infobox"] th,
+.callout[data-callout="infobox"] td {
+    text-align: center !important;
+}
+
+/* Optional: Make the table stretch to the full width of the box */
+.callout[data-callout="infobox"] table {
+    width: 100%;
+    --table-header-color: var(--text, var(--text-normal));
+    --table-header-background: transparent;
+    --table-header-background-hover: var(--td, var(--table-background));
+    --table-row-background-hover: var(--td, var(--table-background));
+    --table-row-alt-background: transparent;
+    --table-column-alt-background: transparent;
+    --table-border-color: transparent;
+    --table-header-border-color: transparent;
+}
+
+/* Set italics to specified color */
+em:not(:has(strong)), 
+em:not(:has(b)) {
+    color: skyblue;
+}
+
+.cm-em:not(.cm-strong) {
+    color: skyblue;
+}
+
+/* Format the banner on the main page */
+.markdown-source-view:has(*[alt="banner"]),
+.markdown-preview-view:has(*[alt="banner"]) {
+    --banner-height: 200px;
+}
+
+/* Margin above inline title and frontmatter. */
+.markdown-source-view:has(*[alt="banner"]).is-live-preview .cm-sizer,
+.markdown-preview-view:has(*[alt="banner"]).markdown-preview-view .markdown-preview-pusher {
+    padding-top: var(--banner-height);
+}
+
+.markdown-source-view:has(*[alt="banner"]).is-live-preview .image-embed:has(img[alt="banner"]:first-child),
+.markdown-preview-view:has(*[alt="banner"]).markdown-preview-view span[alt="banner"]:first-child {
+    display: contents;
+}
+
+/* Positions banner image fix to the top. */
+.markdown-source-view:has(*[alt="banner"]).is-live-preview .image-embed img[alt="banner"]:first-child,
+.markdown-preview-view:has(*[alt="banner"]).markdown-preview-view img[alt="banner"]:first-child {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+    height: var(--banner-height);
+    margin: 0 auto;
+    width: 100%;
+    pointer-events: auto;
+    background: none !important;
+    border: none !important;
+    border-radius: none !important;
+    box-shadow: none !important;
+}
